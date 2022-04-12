@@ -5,3 +5,4 @@
 - 📫 How to reach me: contact Agent#7153 on discord.
 
 ![Tonumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonumber&show_icons=true&theme=radical)
+[![Discord Presence](https://lanyard.cnrad.dev/api/900615078422937600)](https://discord.com/users/900615078422937600)
