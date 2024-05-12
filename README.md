@@ -1,4 +1,4 @@
 
 fizi@riseup.net
 
-![Tonumber's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonumber&show_icons=true&theme=radical)
+![Fiizii's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiizii&show_icons=true&theme=radical)
